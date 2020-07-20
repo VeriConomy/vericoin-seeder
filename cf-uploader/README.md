@@ -1,4 +1,4 @@
-Put seeder.conf in ~/.vrmseeder/seeder.conf
+Put seeder.conf in ~/.vrcseeder/seeder.conf
 
 Configure with your params
 
