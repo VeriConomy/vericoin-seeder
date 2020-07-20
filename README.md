@@ -1,7 +1,7 @@
 VeriCoin-Seeder
 ==============
 
-[![Build Status](https://travis-ci.com/VeriConomy/vericoin-seeder.svg?branch=master)](https://travis-ci.com/VeriConomy/vericoin-seeder)
+[![Build Status](https://travis-ci.com/VeriConomy/vericoin-seeder.svg?branch=1.8.0)](https://travis-ci.com/VeriConomy/vericoin-seeder)
 
 VeriCoin-Seeder is a crawler for the VeriCoin network, which exposes a list
 of reliable nodes via a built-in DNS server, or instead
