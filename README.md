@@ -11,8 +11,8 @@ Features:
 * CloudFlare DNS integration
 * regularly revisits known nodes to check their availability
 * bans nodes after enough failures, or bad behaviour
-* accepts nodes down to v1.6.5 to request new IP addresses from,
-  but only reports good post-v1.7.1 nodes.
+* accepts nodes down to v1.7.1 to request new IP addresses from,
+  but only reports good >= 2.0.0  nodes.
 * keeps statistics over (exponential) windows of 2 hours, 8 hours,
   1 day and 1 week, to base decisions on.
 * very low memory (a few tens of megabytes) and cpu requirements.
@@ -25,7 +25,7 @@ The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/VeriConomy/vericoin-seeder/tags) are created
 regularly to indicate new official, stable release versions of VeriCoin-Seeder.
 
-Current official VeriCoin-Seeder release is on branch 1.8.0.
+Current official VeriCoin-Seeder release is on branch 2.0.0.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
